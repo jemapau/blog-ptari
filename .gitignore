@@ -1,0 +1,14 @@
+# OS generated files #
+######################
+
+_site
+.sass-cache
+.jekyll-metadata
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehThumbs.db
+Thumbs.db

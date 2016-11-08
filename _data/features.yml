@@ -1,0 +1,11 @@
+- image_path: /img/feature1.png
+  title: Feature 1
+  description: Feature 1 Description
+
+- image_path: /img/feature2.png
+  title: Feature 2
+  description: Feature 2 Description
+
+- image_path: /img/feature3.png
+  title: Feature 3
+  description: Feature 3 Description

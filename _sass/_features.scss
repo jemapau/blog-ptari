@@ -1,0 +1,38 @@
+
+.features {
+	
+}
+
+.feature {
+
+	&-item {
+		display: inline-block;
+		float: left;
+		width: 33.33%;
+		height: auto;
+		margin-bottom: 40px;
+	}
+
+	&-title {
+		display: block;
+		color: $green-color-light;
+		font-size: $font-l;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	&-deck {
+		text-align: center;
+		margin-top: 35px;
+	}
+
+	&-img {
+		position: relative;
+		margin: 0 auto 50px;
+	}
+
+	.img-responsive {
+		margin: 0 auto;
+	}
+}

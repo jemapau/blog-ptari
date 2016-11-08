@@ -1,0 +1,10 @@
+<section class="who">
+	<div class="wrapper">
+	{% for about in site.data.who %}
+		{{ about.title }}
+		<div class="who-deck">
+			{{ about.description }}
+		</div>
+	{% endfor %}
+	</div>
+</section>
