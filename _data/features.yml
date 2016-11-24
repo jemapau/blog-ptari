@@ -1,11 +1,11 @@
-- image_path: /img/feature1.png
+- image_path: /img/feature1.svg
   title: Feature 1
   description: Feature 1 Description
 
-- image_path: /img/feature2.png
+- image_path: /img/feature2.svg
   title: Feature 2
   description: Feature 2 Description
 
-- image_path: /img/feature3.png
+- image_path: /img/feature3.svg
   title: Feature 3
   description: Feature 3 Description
