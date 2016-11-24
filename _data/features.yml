@@ -1,11 +1,11 @@
 - image_path: /img/feature1.svg
-  title: Feature 1
-  description: Feature 1 Description
+  title: Reutilizar
+  description: Para uso exterior
 
 - image_path: /img/feature2.svg
-  title: Feature 2
-  description: Feature 2 Description
+  title: Proceso de purificación
+  description: Conoce la planta
 
 - image_path: /img/feature3.svg
-  title: Feature 3
-  description: Feature 3 Description
+  title: Recuperación del agua
+  description: ¿Para qué el proceso?
